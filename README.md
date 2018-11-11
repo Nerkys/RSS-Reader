@@ -12,18 +12,27 @@
 #Список импортируемых модулей:
 
 import feedparser
+
 import os
+
 import unidecode
+
 import wx
+
 import wx.html2 as webview
+
 import re
+
 import sqlite3
+
 import sys
 
 #Для работы программы на Windows:
 
 pip install -U wxPython
+
 pip install feedparser
+
 pip install unidecode
 
 #Для работы программы на Linux:
