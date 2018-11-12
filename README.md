@@ -47,6 +47,10 @@ $ pip install -U \
 
 $ pip install wxpython --user
 
+$ pip install feedparser
+
+$ pip install unidecode
+
 
 
 
