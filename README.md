@@ -27,6 +27,8 @@ import sqlite3
 
 import sys
 
+from ObjectListView import ObjectListView, ColumnDefn
+
 # Для работы программы на Windows:
 
 pip install -U wxPython
