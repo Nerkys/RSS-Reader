@@ -35,6 +35,8 @@ pip install feedparser
 
 pip install unidecode
 
+pip install ObjectListView
+
 # Для работы программы на Linux:
 
 $ pip install pygame --user
