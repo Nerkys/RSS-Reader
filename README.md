@@ -1,4 +1,4 @@
-# RSS_Reader
+# RSS-Reader
 
 Файл запуска RSS_Reader.py
 
